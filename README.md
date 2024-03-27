@@ -2,15 +2,12 @@
 
 <details>
  <summary><h3>🖧 I'm currently...</h3></summary>
-   - working on a ransomware detection project at UFSM (Universidade Federal de Santa Maria).
+   - working on a ransomware detection project and a botnet detection & analisys at UFSM (Universidade Federal de Santa Maria).
 </details>
 <div align="center">
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielfoletto&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
  
 </div>
-### 📊 Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfoletto&show_icons=true&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
