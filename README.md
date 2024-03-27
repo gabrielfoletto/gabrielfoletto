@@ -1,4 +1,4 @@
-### ![Header](./your-header-image-name.png)
+### <img width=100% bottom=50px src="https://github.com/gabrielfoletto/gabrielfoletto/assets/78291005/5070c3d3-07ba-4504-87ae-f13e552ad2bb"/> 
 
 <details>
  <summary><h3>🖧 I'm currently...</h3></summary>
