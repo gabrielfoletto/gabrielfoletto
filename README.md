@@ -2,7 +2,7 @@
 
 <details>
  <summary><h3>🖧 I'm currently...</h3></summary>
-   - working on a ransomware detection project and a botnet detection & analisys at UFSM (Universidade Federal de Santa Maria).
+   - working on a ransomware detection project and a botnet detection & analisys project at UFSM (Universidade Federal de Santa Maria).
 </details>
 <div align="center">
  
