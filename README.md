@@ -5,7 +5,9 @@
    - working on a ransomware detection project at UFSM (Universidade Federal de Santa Maria).
 </details>
 <div align="center">
+ 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielfoletto&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+ 
 </div>
 ### 📊 Stats
 
