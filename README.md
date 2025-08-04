@@ -3,6 +3,7 @@
 <details>
  <summary><h3>🖧 I'm currently...</h3></summary>
    - working on a ransomware detection project and a botnet detection & analisys project at UFSM (Universidade Federal de Santa Maria).
+   - working as an analyst at Under Cloud.
 </details>
 <div align="center">
  
@@ -11,7 +12,7 @@
 </div>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/django-006400?style=for-the-badge&logo=django&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white) ![Overleaf](https://img.shields.io/badge/overleaf-55dd55d?style=for-the-badge&logo=overleaf&logoColor=white) ![Machine Learning](https://img.shields.io/badge/machine_learning-black?style=for-the-badge&logo=computer&logoColor=white
+![Django](https://img.shields.io/badge/django-006400?style=for-the-badge&logo=django&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white) ![Overleaf](https://img.shields.io/badge/overleaf-55dd55d?style=for-the-badge&logo=overleaf&logoColor=white) ![Machine Learning](https://img.shields.io/badge/machine_learning-black?style=for-the-badge&logo=computer&logoColor=white
 ) ![Explainable AI](https://img.shields.io/badge/explainable_ai-blue?style=for-the-badge&logo=computer&logoColor=white) 
 
 
